@@ -96,7 +96,7 @@
 # model_var.set('CNN')  # Default model is CNN
 # model_paths = {
 #     'CNN': r'/home/hoangdd/Downloads/jupyter/best_cnn_model_50epoch.h5',
-#     'ANN': r'/home/hoangdd/Downloads/jupyter/ann_model.h5',
+#     'ANN': r'/home/hoangdd/Downloads/jupyter/ann_model.ipynb.h5',
 #     'VGG': r'/home/hoangdd/Downloads/jupyter/vgg_model.h5',
 #     'Inception': r'/home/hoangdd/Downloads/jupyter/inception_model.h5',
 #     'Xception': r'/home/hoangdd/Downloads/jupyter/xception_model.h5'
@@ -230,7 +230,7 @@
 # model_var.set('CNN')  # Default model is CNN
 # model_paths = {
 #     'CNN': r'/home/hoangdd/Downloads/jupyter/best_cnn_model_50epoch.h5',
-#     'ANN': r'/home/hoangdd/Downloads/jupyter/ann_model.h5',
+#     'ANN': r'/home/hoangdd/Downloads/jupyter/ann_model.ipynb.h5',
 #     'VGG': r'/home/hoangdd/Downloads/jupyter/vgg_model.h5',
 #     'Inception': r'/home/hoangdd/Downloads/jupyter/inception_model.h5',
 #     'Xception': r'/home/hoangdd/Downloads/jupyter/xception_model.h5'
@@ -368,7 +368,7 @@ model_var = StringVar(top)
 model_var.set('CNN')  # Default model is CNN
 model_paths = {
     'CNN': r'/home/hoangdd/Downloads/jupyter/best_cnn_model_50epoch.h5',
-    'ANN': r'/home/hoangdd/Downloads/jupyter/ann_model.h5',
+    'ANN': r'/home/hoangdd/Downloads/jupyter/ann_model.ipynb.h5',
     'VGG': r'/home/hoangdd/Downloads/jupyter/vgg_model.h5',
     'Inception': r'/home/hoangdd/Downloads/jupyter/inception_model.h5',
     'Xception': r'/home/hoangdd/Downloads/jupyter/xception_model.h5'
